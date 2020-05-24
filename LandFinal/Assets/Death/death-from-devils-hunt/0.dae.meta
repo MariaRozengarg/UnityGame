@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 7e29dbdbd493e7a45a423bb324e20364
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: _4_body_0_2_0_0
+    100004: _4_head_0_2_0_0
+    100006: _4_items_0_4_0_0
+    100008: _5_clothes_0_1_0_0
+    100010: __hair_0_2_0_0
+    100012: arm left elbow
+    100014: arm left finger 1a
+    100016: arm left finger 1b
+    100018: arm left finger 1c
+    100020: arm left finger 2a
+    100022: arm left finger 2b
+    100024: arm left finger 2c
+    100026: arm left finger 3a
+    100028: arm left finger 3b
+    100030: arm left finger 3c
+    100032: arm left finger 4a
+    100034: arm left finger 4b
+    100036: arm left finger 4c
+    100038: arm left finger 5a
+    100040: arm left finger 5b
+    100042: arm left finger 5c
+    100044: arm left shoulder 1
+    100046: arm left shoulder 2
+    100048: arm left wrist
+    100050: arm right elbow
+    100052: arm right finger 1a
+    100054: arm right finger 1b
+    100056: arm right finger 1c
+    100058: arm right finger 2a
+    100060: arm right finger 2b
+    100062: arm right finger 2c
+    100064: arm right finger 3a
+    100066: arm right finger 3b
+    100068: arm right finger 3c
+    100070: arm right finger 4a
+    100072: arm right finger 4b
+    100074: arm right finger 4c
+    100076: arm right finger 5a
+    100078: arm right finger 5b
+    100080: arm right finger 5c
+    100082: arm right shoulder 1
+    100084: arm right shoulder 2
+    100086: arm right wrist
+    100088: Armature
+    100090: head cheek left
+    100092: head cheek right
+    100094: head eyebrow left
+    100096: head eyebrow right
+    100098: head jaw 1
+    100100: head jaw 2
+    100102: head lipcorner left
+    100104: head lipcorner right
+    100106: head neck lower
+    100108: head neck upper
+    100110: leg left thigh
+    100112: leg right thigh
+    100114: root ground
+    100116: root hips
+    100118: spine lower
+    100120: spine middle
+    100122: spine upper
+    400000: //RootNode
+    400002: _4_body_0_2_0_0
+    400004: _4_head_0_2_0_0
+    400006: _4_items_0_4_0_0
+    400008: _5_clothes_0_1_0_0
+    400010: __hair_0_2_0_0
+    400012: arm left elbow
+    400014: arm left finger 1a
+    400016: arm left finger 1b
+    400018: arm left finger 1c
+    400020: arm left finger 2a
+    400022: arm left finger 2b
+    400024: arm left finger 2c
+    400026: arm left finger 3a
+    400028: arm left finger 3b
+    400030: arm left finger 3c
+    400032: arm left finger 4a
+    400034: arm left finger 4b
+    400036: arm left finger 4c
+    400038: arm left finger 5a
+    400040: arm left finger 5b
+    400042: arm left finger 5c
+    400044: arm left shoulder 1
+    400046: arm left shoulder 2
+    400048: arm left wrist
+    400050: arm right elbow
+    400052: arm right finger 1a
+    400054: arm right finger 1b
+    400056: arm right finger 1c
+    400058: arm right finger 2a
+    400060: arm right finger 2b
+    400062: arm right finger 2c
+    400064: arm right finger 3a
+    400066: arm right finger 3b
+    400068: arm right finger 3c
+    400070: arm right finger 4a
+    400072: arm right finger 4b
+    400074: arm right finger 4c
+    400076: arm right finger 5a
+    400078: arm right finger 5b
+    400080: arm right finger 5c
+    400082: arm right shoulder 1
+    400084: arm right shoulder 2
+    400086: arm right wrist
+    400088: Armature
+    400090: head cheek left
+    400092: head cheek right
+    400094: head eyebrow left
+    400096: head eyebrow right
+    400098: head jaw 1
+    400100: head jaw 2
+    400102: head lipcorner left
+    400104: head lipcorner right
+    400106: head neck lower
+    400108: head neck upper
+    400110: leg left thigh
+    400112: leg right thigh
+    400114: root ground
+    400116: root hips
+    400118: spine lower
+    400120: spine middle
+    400122: spine upper
+    2100000: _4_body_0_2_0_0
+    2100002: _4_head_0_2_0_0
+    2100004: _4_items_0_4_0_0
+    2100006: _5_clothes_0_1_0_0
+    2100008: __hair_0_2_0_0
+    4300000: _4_body_0_2_0_0
+    4300002: _4_head_0_2_0_0
+    4300004: _4_items_0_4_0_0
+    4300006: _5_clothes_0_1_0_0
+    4300008: __hair_0_2_0_0
+    9500000: //RootNode
+    13700000: _4_body_0_2_0_0
+    13700002: _4_head_0_2_0_0
+    13700004: _4_items_0_4_0_0
+    13700006: _5_clothes_0_1_0_0
+    13700008: __hair_0_2_0_0
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

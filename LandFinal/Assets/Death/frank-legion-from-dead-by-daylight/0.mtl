@@ -1,0 +1,114 @@
+# Blender MTL File: 'ModelRenderLighting2.blend'
+# Material Count: 9
+
+newmtl 6_mesh0_0.1_16_16.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.796354 0.482824 0.612186
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Frank Legion,Dead by Daylight\t_kkhands01_bc.tga
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Frank Legion,Dead by Daylight\\t_kkhands01_n.tga
+map_d D:\\Dropbox\\Shared Files\\XPS\\Frank Legion,Dead by Daylight\\t_kkhands01_bc.tga
+
+newmtl 6_mesh1_0.1_16_16.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.626485 0.735505 0.680467
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Frank Legion,Dead by Daylight\t_kkhead01_bc.tga
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Frank Legion,Dead by Daylight\\t_kkhead01_n.tga
+map_d D:\\Dropbox\\Shared Files\\XPS\\Frank Legion,Dead by Daylight\\t_kkhead01_bc.tga
+
+newmtl 6_mesh4_0.2_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.558336 0.476323 0.576398
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Frank Legion,Dead by Daylight\t_kktorso01_bc.tga
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Frank Legion,Dead by Daylight\\t_kktorso01_p01_n.tga
+map_d D:\\Dropbox\\Shared Files\\XPS\\Frank Legion,Dead by Daylight\\t_kktorso01_bc.tga
+
+newmtl 6_mesh5_0.2_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.651504 0.714369 0.538544
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Frank Legion,Dead by Daylight\t_kklegs01_bc.tga
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Frank Legion,Dead by Daylight\\t_kklegs01_01_n.tga
+map_d D:\\Dropbox\\Shared Files\\XPS\\Frank Legion,Dead by Daylight\\t_kklegs01_bc.tga
+
+newmtl 7_+mesh6.mesh6_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.446061 0.608949 0.566297
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Frank Legion,Dead by Daylight\t_kkmask01_bc.tga
+map_d D:\\Dropbox\\Shared Files\\XPS\\Frank Legion,Dead by Daylight\\t_kkmask01_bc.tga
+
+newmtl 7_+mesh8.mesh8_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.505083 0.506917 0.763216
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Frank Legion,Dead by Daylight\t_kkmask006_bc.tga
+map_d D:\\Dropbox\\Shared Files\\XPS\\Frank Legion,Dead by Daylight\\t_kkmask006_bc.tga
+
+newmtl 7_+mesh9.mesh9_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.786313 0.681294 0.465063
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Frank Legion,Dead by Daylight\t_kkmask007_02_bc.tga
+map_d D:\\Dropbox\\Shared Files\\XPS\\Frank Legion,Dead by Daylight\\t_kkmask007_02_bc.tga
+
+newmtl 7_mesh2_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.555818 0.786643 0.794809
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Frank Legion,Dead by Daylight\t_kkhead01_bc.tga
+map_d D:\\Dropbox\\Shared Files\\XPS\\Frank Legion,Dead by Daylight\\t_kkhead01_bc.tga
+
+newmtl 7_mesh3_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.719775 0.679153 0.445225
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Frank Legion,Dead by Daylight\t_kkhead01_bc.tga
+map_d D:\\Dropbox\\Shared Files\\XPS\\Frank Legion,Dead by Daylight\\t_kkhead01_bc.tga

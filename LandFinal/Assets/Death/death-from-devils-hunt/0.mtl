@@ -1,0 +1,98 @@
+# Blender MTL File: 'MRL-279.blend'
+# Material Count: 7
+
+newmtl 24_+acc1_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.425181 0.453696 0.721165
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Death,Devils Hunt\items_d.png
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Death,Devils Hunt\\items_n.png
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\Death,Devils Hunt\\items_m.png
+map_d D:\\Dropbox\\Shared Files\\XPS\\Death,Devils Hunt\\items_d.png
+
+newmtl 24_-acc2_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.718342 0.632873 0.533855
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Death,Devils Hunt\items_d.png
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Death,Devils Hunt\\items_n.png
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\Death,Devils Hunt\\items_m.png
+map_d D:\\Dropbox\\Shared Files\\XPS\\Death,Devils Hunt\\items_d.png
+
+newmtl 24_body_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.733824 0.555074 0.661193
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Death,Devils Hunt\body_d.png
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Death,Devils Hunt\\body_n.png
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\Death,Devils Hunt\\body_s.png
+map_d D:\\Dropbox\\Shared Files\\XPS\\Death,Devils Hunt\\body_d.png
+
+newmtl 24_head_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.557195 0.713084 0.630948
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Death,Devils Hunt\head_d.png
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Death,Devils Hunt\\head_n.png
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\Death,Devils Hunt\\head_s.png
+map_d D:\\Dropbox\\Shared Files\\XPS\\Death,Devils Hunt\\head_d.png
+
+newmtl 24_items_0.4_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.603075 0.689445 0.531571
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Death,Devils Hunt\items_d.png
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Death,Devils Hunt\\items_n.png
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\Death,Devils Hunt\\items_m.png
+map_d D:\\Dropbox\\Shared Files\\XPS\\Death,Devils Hunt\\items_d.png
+
+newmtl 25_clothes_0.1_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.582973 0.527411 0.602014
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Death,Devils Hunt\clothes_d.png
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Death,Devils Hunt\\clothes_n.png
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\Death,Devils Hunt\\clothes_r.png
+map_d D:\\Dropbox\\Shared Files\\XPS\\Death,Devils Hunt\\clothes_d.png
+
+newmtl 7_hair_0.2_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.736466 0.535250 0.463365
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Death,Devils Hunt\hair_d.png
+map_d D:\\Dropbox\\Shared Files\\XPS\\Death,Devils Hunt\\hair_d.png
